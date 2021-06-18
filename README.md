@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm newbe36524</h1>
-<h3 align="center">You can check out my new open source project what I am working on [Newbe.Claptrap](https://github.com/newbe36524/Newbe.Claptrap) / [Newbe.ObjectVisitor](https://github.com/newbe36524/Newbe.ObjectVisitor) and [Amazing-Favorites](https://github.com/newbe36524/Amazing-Favorites).</h3>
+<h3 align="center">You can check out my new open source project what I am working on [Newbe.Claptrap] / [Newbe.ObjectVisitor] and [Amazing-Favorites].</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=newbe36524&label=Profile%20views&color=0e75b6&style=flat" alt="newbe36524" /> </p>
 
