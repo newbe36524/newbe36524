@@ -33,3 +33,5 @@
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newbe36524&show_icons=true&locale=en" alt="newbe36524" /></p>
+
+<p><img src="MVP_Logo_Horizontal_Secondary_Black_RGB_300ppi.png" alt="mvp" /></p>
