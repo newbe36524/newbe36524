@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MVP on Board 没用小技巧 👌](https://www.newbe.pro/Others/mvp-onboard/)
 - [Amazing Favorites 0.5 UX 增强](https://www.newbe.pro/Amazing-Favorites/Release-Notes-0-5-0/)
 - [winget-cli 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-winget-cli/)
 - [AnotherRedisDesktopManager 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-AnotherRedisDesktopManager/)
-- [PowerShell 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-PowerShell/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
