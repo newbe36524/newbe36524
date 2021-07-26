@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [基于 Blazor 打造一款实时字幕](https://www.newbe.pro/Newbe.LiveCaptioning/Add-A-Live-Caption-Based-On-Blazor/)
 - [MVP on Board 没用小技巧 👌](https://www.newbe.pro/Others/mvp-onboard/)
 - [Amazing Favorites 0.5 UX 增强](https://www.newbe.pro/Amazing-Favorites/Release-Notes-0-5-0/)
 - [winget-cli 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-winget-cli/)
-- [AnotherRedisDesktopManager 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-AnotherRedisDesktopManager/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
