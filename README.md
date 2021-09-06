@@ -15,10 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [简单三分钟，本地搭建k8s](https://www.newbe.pro/Newbe.Claptrap/Setup-K8s-With-Minikube/)
+- [minikube 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-minikube/)
 - [FastGithub 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-FastGithub/)
 - [wkhtmltopdf 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-wkhtmltopdf/)
-- [基于 Blazor 打造一款实时字幕](https://www.newbe.pro/Newbe.LiveCaptioning/Add-A-Live-Caption-Based-On-Blazor/)
-- [MVP on Board 没用小技巧 👌](https://www.newbe.pro/Others/mvp-onboard/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
