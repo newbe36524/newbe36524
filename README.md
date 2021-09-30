@@ -21,6 +21,10 @@
 - [minikube 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-minikube/)
 <!-- BLOG-POST-LIST:END -->
 
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/newbe36524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newbe36524" height="30" width="40" /></a>
