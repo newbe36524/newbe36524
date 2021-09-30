@@ -23,7 +23,7 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-contribution-grid-snake.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
