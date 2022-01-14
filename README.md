@@ -31,7 +31,11 @@
 <a href="https://linkedin.com/in/newbe36524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="newbe36524" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC19WYXx_fEGnW7P7uC_JFAw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="newbe36524" height="30" width="40" /></a>
 <a href="/https://www.newbe.pro/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.newbe.pro/atom.xml" height="30" width="40" /></a>
+  
 </p>
+
+点击链接加入QQ频道【dapr 中文交流】：<https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&inviteCode=Ilb7Z&from=246610&biz=ka>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
