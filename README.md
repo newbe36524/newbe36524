@@ -15,16 +15,16 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何实现隐式类型转换](https://www.newbe.pro/ChatAI/0x012-How-to-implement-implicit-type-conversion/)
+- [在 C# 9 中使用 foreach 扩展](https://www.newbe.pro/ChatAI/0x013-Extension-foreach-in-csharp-9/)
+- [为 ASPNETCORE 7 项目添加 Serilog](https://www.newbe.pro/ChatAI/0x014-Intro-serilog-into-aspnet-core-7/)
+- [如何在多个应用程序中共享日志配置](https://www.newbe.pro/ChatAI/0x015-How-to-share-logging-configuration-in-multiple-applications/)
+- [如何指定多个项目的 InternalsVisibleTo](https://www.newbe.pro/ChatAI/0x016-How-to-InternalsVisibleTo-for-multiple-projects/)
 - [如何使用 EF Core 7 批量删除数据](https://www.newbe.pro/ChatAI/How-to-batch-delete-data-by-efcore-7/)
 - [如何在 .Net 7 中将 Query 绑定到数组](https://www.newbe.pro/ChatAI/How-to-binding-query-to-array-in-dotnet-7/)
 - [实现 .Net 7 下的数据库定时检查](https://www.newbe.pro/ChatAI/How-to-create-a-timer-host-service/)
 - [如何在路由绑定中使用 IParsable](https://www.newbe.pro/ChatAI/How-to-use-IParsable-in-route-binding/)
 - [使用 BenchmarkDotNet 比较指定容量的 List 的性能](https://www.newbe.pro/ChatAI/How-to-use-benchmark-to-compare-performance-about-list-with-capacity-specified/)
-- [使用 System.Text.Json 时，如何处理 Dictionary 中 Key 为自定义类型的问题](https://www.newbe.pro/ChatAI/How-serialize-custom-type-as-dictionary-key-in-system-text-json/)
-- [如何使用 System.Text.Json 序列化 DateTimeOffset 为 Unix 时间戳](https://www.newbe.pro/ChatAI/How-to-serialize-datetimeoffset-to-unitx-timestamp-by-system-text-json/)
-- [如何使用 IdGen 生成 UID](https://www.newbe.pro/ChatAI/How-to-use-idgen-to-create-uid/)
-- [通过 CancellationToken 提高 Web 性能](https://www.newbe.pro/ChatAI/Performance-enhancement-for-web-by-cancellation-token/)
-- [为什么 Random.Shared 是线程安全的](https://www.newbe.pro/ChatAI/Why-randome-shared-is-thread-safe/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
