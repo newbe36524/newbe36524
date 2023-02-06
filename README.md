@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ActivityWatch 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-ActivityWatch/)
 - [如何实现隐式类型转换](https://www.newbe.pro/ChatAI/0x012-How-to-implement-implicit-type-conversion/)
 - [在 C# 9 中使用 foreach 扩展](https://www.newbe.pro/ChatAI/0x013-Extension-foreach-in-csharp-9/)
 - [为 ASPNETCORE 7 项目添加 Serilog](https://www.newbe.pro/ChatAI/0x014-Intro-serilog-into-aspnet-core-7/)
@@ -24,7 +25,6 @@
 - [如何在 .Net 7 中将 Query 绑定到数组](https://www.newbe.pro/ChatAI/How-to-binding-query-to-array-in-dotnet-7/)
 - [实现 .Net 7 下的数据库定时检查](https://www.newbe.pro/ChatAI/How-to-create-a-timer-host-service/)
 - [如何在路由绑定中使用 IParsable](https://www.newbe.pro/ChatAI/How-to-use-IParsable-in-route-binding/)
-- [使用 BenchmarkDotNet 比较指定容量的 List 的性能](https://www.newbe.pro/ChatAI/How-to-use-benchmark-to-compare-performance-about-list-with-capacity-specified/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
