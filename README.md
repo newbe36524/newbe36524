@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在 C# 项目中链接一个文件夹下的所有文件](https://www.newbe.pro/Others/0x017-csharp-how-to-link-all-the-files-in-a-given-folder/)
 - [ActivityWatch 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-ActivityWatch/)
 - [如何实现隐式类型转换](https://www.newbe.pro/ChatAI/0x012-How-to-implement-implicit-type-conversion/)
 - [在 C# 9 中使用 foreach 扩展](https://www.newbe.pro/ChatAI/0x013-Extension-foreach-in-csharp-9/)
@@ -24,7 +25,6 @@
 - [如何使用 EF Core 7 批量删除数据](https://www.newbe.pro/ChatAI/How-to-batch-delete-data-by-efcore-7/)
 - [如何在 .Net 7 中将 Query 绑定到数组](https://www.newbe.pro/ChatAI/How-to-binding-query-to-array-in-dotnet-7/)
 - [实现 .Net 7 下的数据库定时检查](https://www.newbe.pro/ChatAI/How-to-create-a-timer-host-service/)
-- [如何在路由绑定中使用 IParsable](https://www.newbe.pro/ChatAI/How-to-use-IParsable-in-route-binding/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
