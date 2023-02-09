@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT集成之前，让我们复习一下即将过时的知识](https://www.newbe.pro/Others/0x019-before-chatgpt-integration-let-us-review-the-soon-to-be-obsolete-knowledge/)
 - [在 Asp.Net Core 中什么是认证和授权](https://www.newbe.pro/Others/0x018-what-is-authentication-and-authorization-in-aspnetcore/)
 - [如何在 C# 项目中链接一个文件夹下的所有文件](https://www.newbe.pro/Others/0x017-csharp-how-to-link-all-the-files-in-a-given-folder/)
 - [ActivityWatch 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-ActivityWatch/)
@@ -24,7 +25,6 @@
 - [如何在多个应用程序中共享日志配置](https://www.newbe.pro/ChatAI/0x015-How-to-share-logging-configuration-in-multiple-applications/)
 - [如何指定多个项目的 InternalsVisibleTo](https://www.newbe.pro/ChatAI/0x016-How-to-InternalsVisibleTo-for-multiple-projects/)
 - [如何使用 EF Core 7 批量删除数据](https://www.newbe.pro/ChatAI/How-to-batch-delete-data-by-efcore-7/)
-- [如何在 .Net 7 中将 Query 绑定到数组](https://www.newbe.pro/ChatAI/How-to-binding-query-to-array-in-dotnet-7/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
