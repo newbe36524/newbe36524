@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [dotnet 8 preview 1 即将发布](https://www.newbe.pro/Others/0x01B-dotnet-8-preview-is-coming-soon/)
 - [argo-cd 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-argo-cd/)
 - [k3d 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-k3d/)
 - [k3s 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-k3s/)
@@ -24,7 +25,6 @@
 - [在 Asp.Net Core 中什么是认证和授权](https://www.newbe.pro/Others/0x018-what-is-authentication-and-authorization-in-aspnetcore/)
 - [如何在 C# 项目中链接一个文件夹下的所有文件](https://www.newbe.pro/Others/0x017-csharp-how-to-link-all-the-files-in-a-given-folder/)
 - [ActivityWatch 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-ActivityWatch/)
-- [如何实现隐式类型转换](https://www.newbe.pro/ChatAI/0x012-How-to-implement-implicit-type-conversion/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
