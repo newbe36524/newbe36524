@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2023 年 dotnet 仓库社区年度调查已经开始](https://www.newbe.pro/Others/0x01E-annual-dotnet-runtime-community-survey-2023/)
 - [我不想再传递 nameof 了](https://www.newbe.pro/Others/0x01D-I-don-t-want-to-pass-nameof-anymore/)
 - [转义、编码和加密](https://www.newbe.pro/Others/0x01C-escape-encoding-and-encryption/)
 - [dotnet 8 preview 1 即将发布](https://www.newbe.pro/Others/0x01B-dotnet-8-preview-is-coming-soon/)
@@ -24,7 +25,6 @@
 - [一个容器，但是一整个k8s集群](https://www.newbe.pro/Others/0x01A-one-container-but-an-entire-k8s-cluster/)
 - [C# 如何部分加载“超大”解决方案中的部分项目](https://www.newbe.pro/Others/0x020-csharp-how-to-partially-load-some-items-in-a-mega-solution/)
 - [ChatGPT集成之前，让我们复习一下即将过时的知识](https://www.newbe.pro/Others/0x019-before-chatgpt-integration-let-us-review-the-soon-to-be-obsolete-knowledge/)
-- [在 Asp.Net Core 中什么是认证和授权](https://www.newbe.pro/Others/0x018-what-is-authentication-and-authorization-in-aspnetcore/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
