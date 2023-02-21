@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [不同程序集，名称空间类名和方法签名都一样的方法，如何调用](https://www.newbe.pro/Others/0x022-how-to-call-a-method-with-the-same-method-signature-in-different-assemblies/)
 - [关于《小公司需要使用微服务架构吗？》的读后感](https://www.newbe.pro/Others/0x021-after-reading-Do-Small-Companies-Need-to-Use-Microservices-Architecture/)
 - [如何使用 ArrayPool](https://www.newbe.pro/Others/0x01F-how-to-use-arraypool/)
 - [2023 年 dotnet 仓库社区年度调查已经开始](https://www.newbe.pro/Others/0x01E-annual-dotnet-runtime-community-survey-2023/)
@@ -24,7 +25,6 @@
 - [argo-cd 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-argo-cd/)
 - [k3d 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-k3d/)
 - [k3s 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-k3s/)
-- [一个容器，但是一整个k8s集群](https://www.newbe.pro/Others/0x01A-one-container-but-an-entire-k8s-cluster/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
