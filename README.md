@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [使用一个文件集中管理你的 Nuget 依赖版本号](https://www.newbe.pro/Others/0x025-Use-one-file-to-centrally-manage-your-Nuget-dependency-version-numbers/)
 - [磁盘有限，Docker 垃圾很多怎么办](https://www.newbe.pro/Others/0x024-What-to-do-with-limited-disks-and-lots-of-Docker-garbage/)
 - [aspnetcore 原生 DI 实现基于 key 的服务获取](https://www.newbe.pro/Others/0x023-aspnetcore-natively-implements-key-based-service-resolving/)
 - [不同程序集，名称空间类名和方法签名都一样的方法，如何调用](https://www.newbe.pro/Others/0x022-how-to-call-a-method-with-the-same-method-signature-in-different-assemblies/)
@@ -24,7 +25,6 @@
 - [我不想再传递 nameof 了](https://www.newbe.pro/Others/0x01D-I-don-t-want-to-pass-nameof-anymore/)
 - [转义、编码和加密](https://www.newbe.pro/Others/0x01C-escape-encoding-and-encryption/)
 - [dotnet 8 preview 1 即将发布](https://www.newbe.pro/Others/0x01B-dotnet-8-preview-is-coming-soon/)
-- [argo-cd 国内加速下载](https://www.newbe.pro/Mirrors/Mirrors-argo-cd/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
