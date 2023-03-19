@@ -15,8 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [async 与 Thread 的错误结合](https://www.newbe.pro/Others/0x027-This-is-the-wrong-way-to-use-LongRunnigTask-in-csharp/)
-- [这样在 C# 使用 LongRunnigTask 是错的](https://www.newbe.pro/Others/0x026-This-is-the-wrong-way-to-use-LongRunnigTask-in-csharp/)
+- [实现常驻任务除了避免昙花线程，还需要避免重返线程池](https://www.newbe.pro/Others/0x028-avoid-return-to-threadpool-in-longrunning-task/)
+- [async 与 Thread 的错误结合](https://www.newbe.pro/Others/0x027-error-when-using-async-with-thread/)
+- [这样在 C# 使用 LongRunningTask 是错的](https://www.newbe.pro/Others/0x026-This-is-the-wrong-way-to-use-LongRunnigTask-in-csharp/)
 - [使用一个文件集中管理你的 Nuget 依赖版本号](https://www.newbe.pro/Others/0x025-Use-one-file-to-centrally-manage-your-Nuget-dependency-version-numbers/)
 - [磁盘有限，Docker 垃圾很多怎么办](https://www.newbe.pro/Others/0x024-What-to-do-with-limited-disks-and-lots-of-Docker-garbage/)
 - [aspnetcore 原生 DI 实现基于 key 的服务获取](https://www.newbe.pro/Others/0x023-aspnetcore-natively-implements-key-based-service-resolving/)
@@ -24,7 +25,6 @@
 - [关于《小公司需要使用微服务架构吗？》的读后感](https://www.newbe.pro/Others/0x021-after-reading-Do-Small-Companies-Need-to-Use-Microservices-Architecture/)
 - [如何使用 ArrayPool](https://www.newbe.pro/Others/0x01F-how-to-use-arraypool/)
 - [2023 年 dotnet 仓库社区年度调查已经开始](https://www.newbe.pro/Others/0x01E-annual-dotnet-runtime-community-survey-2023/)
-- [我不想再传递 nameof 了](https://www.newbe.pro/Others/0x01D-I-don-t-want-to-pass-nameof-anymore/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
