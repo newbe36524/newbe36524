@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nginx No, Traefik Yes](https://www.newbe.pro/Others/0x02A-Nginx-no-traefik-yes/)
 - [我没能实现始终在一个线程上运行 task](https://www.newbe.pro/Others/0x029-I-can-not-manage-to-always-run-task-on-one-thread/)
 - [实现常驻任务除了避免昙花线程，还需要避免重返线程池](https://www.newbe.pro/Others/0x028-avoid-return-to-threadpool-in-longrunning-task/)
 - [async 与 Thread 的错误结合](https://www.newbe.pro/Others/0x027-error-when-using-async-with-thread/)
@@ -24,7 +25,6 @@
 - [aspnetcore 原生 DI 实现基于 key 的服务获取](https://www.newbe.pro/Others/0x023-aspnetcore-natively-implements-key-based-service-resolving/)
 - [不同程序集，名称空间类名和方法签名都一样的方法，如何调用](https://www.newbe.pro/Others/0x022-how-to-call-a-method-with-the-same-method-signature-in-different-assemblies/)
 - [关于《小公司需要使用微服务架构吗？》的读后感](https://www.newbe.pro/Others/0x021-after-reading-Do-Small-Companies-Need-to-Use-Microservices-Architecture/)
-- [如何使用 ArrayPool](https://www.newbe.pro/Others/0x01F-how-to-use-arraypool/)
 <!-- BLOG-POST-LIST:END -->
 
 ### My GitHub Contributions
