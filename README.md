@@ -29,7 +29,11 @@
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake.svg" />
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
