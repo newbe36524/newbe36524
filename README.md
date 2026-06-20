@@ -77,12 +77,12 @@
 </picture>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/newbe36524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newbe36524" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/newbe36524" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="newbe36524" height="30" width="40" /></a>
-<a href="https://www.newbe.pro/atom.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.newbe.pro/atom.xml" height="30" width="40" /></a>
-<a href="https://hagicode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="hagicode.com" height="30" width="40" /></a>
-</p>
+
+- Official hub: [Hagicode](https://hagicode.com/) · [About](https://hagicode.com/about/) · [Docs](https://docs.hagicode.com/) · [Blog](https://www.newbe.pro/) · [RSS](https://www.newbe.pro/atom.xml)
+- Social: [X](https://x.com/newbe36524) · [LinkedIn](https://www.linkedin.com/in/newbe36524/) · [YouTube](https://www.youtube.com/@hagicode) · [Bilibili](https://space.bilibili.com/272265720) · [Facebook](https://www.facebook.com/people/Justin-Yu/pfbid033bU66WV6A8LHVUp1sDTGFHo6io5NdRQ7ThCj6Euo56FMx76WcVdJ3dMbGbtcoLgCl/)
+- Community: [Discord](https://discord.gg/b5kDHUcUZY) · [QQ Group 610394020](https://qm.qq.com/q/ZWPYvrYRYQ) · [Feishu Group](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=238gb3f7-6820-43b8-9f1f-e0f2e704a000) · [Douyin @hagicode](https://hagicode.com/zh-CN/about/) · [WeChat account](https://hagicode.com/zh-CN/about/)
+- Writing and developer channels: [Dev.to](https://dev.to/newbe36524) · [Juejin](https://juejin.cn/user/2682464104098654) · [Zhihu](https://www.zhihu.com/people/newbe36524) · [CNBlogs](https://www.cnblogs.com/newbe36524) · [CSDN](https://blog.csdn.net/pianzide1117) · [InfoQ](https://www.infoq.cn/u/newbe36524/publish) · [SegmentFault](https://segmentfault.com/u/newbe36524) · [Tencent Cloud](https://cloud.tencent.com/developer/user/1583778) · [OSCHINA](https://my.oschina.net/newbe36524) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/665e764800000000030320b6)
+- Email: [newbe36524@qq.com](mailto:newbe36524@qq.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
