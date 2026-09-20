@@ -1,92 +1,43 @@
-<h1 align="center">Hi 👋, I'm newbe36524</h1>
-<h3 align="center">Creator of Hagicode — AI-powered coding with the OpenSpec workflow</h3>
+# Hi, I'm Kun Yu (Justin)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newbe36524&label=Profile%20views&color=0e75b6&style=flat" alt="newbe36524" /> </p>
+Master of Science in Data Analytics Engineering student at **Northeastern University, Seattle**.
 
-<p align="left"> <a href="https://twitter.com/newbe36524" target="blank"><img src="https://img.shields.io/twitter/follow/newbe36524?logo=twitter&style=for-the-badge" alt="newbe36524" /></a> </p>
+Seeking **Summer 2027 Software Engineering, Data Engineering, and AI Engineering internships**. I build data-driven software systems and developer tools, with interests in AI-assisted software engineering, full-stack development, and applied machine learning.
 
-- 🔭 I'm currently working on **[Hagicode](https://hagicode.com)** — an AI coding assistant that turns ideas into reviewable proposals, tasks, and commits
-- 🪟 Get Hagicode on **[Microsoft Store](https://apps.microsoft.com/detail/9N3PM0N3SVDW)**
-- 👨‍💻 All of my projects are available at [https://www.github.com/newbe36524](https://www.github.com/newbe36524)
-- 📝 I regularly write articles on [https://www.newbe.pro](https://www.newbe.pro)
-- 📫 How to reach me **newbe36524@qq.com**
+- Based in Seattle, WA
+- Expected graduation: Winter 2028
+- Internship location preference: Seattle, WA; open to opportunities across the United States and remote roles
+- Currently building [Hagicode](https://hagicode.com), an AI-assisted developer tool
+- Contact: [LinkedIn](https://www.linkedin.com/in/newbe36524/) · [Email](mailto:newbe36524@hotmail.com)
 
----
+## Selected Project
 
-## 🚀 Hagicode
+### [Hagicode](https://hagicode.com)
 
-**Hagicode** brings AI into the full software development process: understanding repositories, planning changes, implementing code, organizing commits, tracking knowledge, and keeping work reviewable from idea to archive.
+An AI-assisted developer tool that helps turn requests into reviewable proposals, tasks, code changes, and commit history.
 
-[Website](https://hagicode.com) · [Product Overview](https://docs.hagicode.com/product-overview/) · [Desktop](https://hagicode.com/desktop/) · [Microsoft Store](https://apps.microsoft.com/detail/9N3PM0N3SVDW) · [Blog](https://docs.hagicode.com/blog/)
+- Focus: AI-assisted software engineering, developer experience, and end-to-end workflow design
+- Learn more: [Website](https://hagicode.com) · [Product overview](https://docs.hagicode.com/product-overview/) · [Microsoft Store](https://apps.microsoft.com/detail/9N3PM0N3SVDW)
 
-<p align="center">
-  <a href="https://hagicode.com/">
-    <img src="assets/workspace-overview.png" alt="Hagicode workspace overview showing sessions, commit notes, and top-level actions" width="100%" />
-  </a>
-</p>
+### CNCF Dapr Contributor
 
-### Core Capabilities
+Contributed Chinese translations to the [Dapr](https://dapr.io/) project and maintained its Chinese documentation sites: [cn.dapr.io](https://cn.dapr.io/) and [docs.dapr.io/zh-hans](https://docs.dapr.io/zh-hans/).
 
-| 🧠 Proposal-driven | ⚡ Multi-threaded | 🎮 Gamified |
-|--------------------|------------------|-------------|
-| OpenSpec workflow | Quota usage 20% → 100% | Make coding fun again |
-
-**OpenSpec Workflow** — Hagicode starts with a proposal instead of jumping straight into file edits. OpenSpec turns requests into scope, tasks, impact analysis, validation steps, and an execution trail that stays easy to review.
-
-```
-💡 IDEA → 📄 PROPOSAL → 🔍 REVIEW → ⚙️ TASKS
-                 ↓
-💻 CODE → 🧪 TEST → 🔧 REFACTOR → 📚 DOCS → ✅ ARCHIVE
-```
-
-<p align="center">
-  <img src="assets/open-spec-proposal-workflow.png" alt="Hagicode proposal session view showing workflow steps and execution results" width="100%" />
-</p>
-
-<p align="center">
-  <img src="assets/gamified-feedback.png" alt="Hagicode achievement hall with daily progress, milestones, and long-term feedback" width="100%" />
-</p>
-
-### 🪟 Get Hagicode on Microsoft Store
-
-<table>
-  <tr>
-    <td width="160" align="center">
-      <img src="assets/workspace-overview.png" alt="Hagicode for Windows workspace preview" width="160" />
-    </td>
-    <td>
-      <strong>Hagicode for Windows</strong><br/>
-      The current public entry point for the Hagicode desktop app.<br/>
-      <a href="https://apps.microsoft.com/detail/9N3PM0N3SVDW"><strong>🛍️ Open in Microsoft Store</strong></a> ·
-      <a href="https://hagicode.com/desktop/">Desktop downloads</a> ·
-      <a href="https://docs.hagicode.com/faq/steam-distribution-status/">Steam status FAQ</a>
-    </td>
-  </tr>
-</table>
-
-> Add-ons: **[Hagicode Plus](https://docs.hagicode.com/bundles/hagicode-plus/)** bundle and **[Turbo Engine DLC](https://docs.hagicode.com/dlc/turbo-engine-dlc/)** for higher concurrency and customization.
-
----
-
-### My GitHub Contributions
+## GitHub Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake.svg" />
+  <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/newbe36524/newbe36524/main/assets/github-snake.svg" />
 </picture>
 
-<h3 align="left">Connect with me:</h3>
+## Links
 
-- Official hub: [Hagicode](https://hagicode.com/) · [About](https://hagicode.com/about/) · [Docs](https://docs.hagicode.com/) · [Blog](https://www.newbe.pro/) · [RSS](https://www.newbe.pro/atom.xml)
-- Social: [X](https://x.com/newbe36524) · [LinkedIn](https://www.linkedin.com/in/newbe36524/) · [YouTube](https://www.youtube.com/@hagicode) · [Bilibili](https://space.bilibili.com/272265720) · [Facebook](https://www.facebook.com/people/Justin-Yu/pfbid033bU66WV6A8LHVUp1sDTGFHo6io5NdRQ7ThCj6Euo56FMx76WcVdJ3dMbGbtcoLgCl/)
+[GitHub](https://github.com/newbe36524) · [LinkedIn](https://www.linkedin.com/in/newbe36524/) · [Email](mailto:newbe36524@hotmail.com)
+
+## Connect
+
+- Official: [Hagicode](https://hagicode.com/) · [About](https://hagicode.com/about/) · [Docs](https://docs.hagicode.com/)
+- Social: [X](https://x.com/newbe36524) · [LinkedIn](https://www.linkedin.com/in/newbe36524/) · [YouTube](https://www.youtube.com/@hagicode) · [Bilibili](https://space.bilibili.com/272265720) · [Facebook](https://www.facebook.com/people/Kun-Yu/pfbid02fzvdy61wDjDrzVzDTsenicHqxkQn3E9mXH3HoRzVccxFH8ms7XyrYZ5idqHzdTaKl/)
 - Community: [Discord](https://discord.gg/b5kDHUcUZY) · [QQ Group 610394020](https://qm.qq.com/q/ZWPYvrYRYQ) · [Feishu Group](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=238gb3f7-6820-43b8-9f1f-e0f2e704a000) · [Douyin @hagicode](https://hagicode.com/zh-CN/about/) · [WeChat account](https://hagicode.com/zh-CN/about/)
 - Writing and developer channels: [Dev.to](https://dev.to/newbe36524) · [Juejin](https://juejin.cn/user/2682464104098654) · [Zhihu](https://www.zhihu.com/people/newbe36524) · [CNBlogs](https://www.cnblogs.com/newbe36524) · [CSDN](https://blog.csdn.net/pianzide1117) · [InfoQ](https://www.infoq.cn/u/newbe36524/publish) · [SegmentFault](https://segmentfault.com/u/newbe36524) · [Tencent Cloud](https://cloud.tencent.com/developer/user/1583778) · [OSCHINA](https://my.oschina.net/newbe36524) · [Xiaohongshu](https://www.xiaohongshu.com/user/profile/665e764800000000030320b6)
-- Email: [newbe36524@qq.com](mailto:newbe36524@qq.com)
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newbe36524&show_icons=true&locale=en" alt="newbe36524" /></p>
-
-<p><img src="MVP_Logo_Horizontal_Secondary_Black_RGB_200ppi.png" alt="mvp" /></p>
