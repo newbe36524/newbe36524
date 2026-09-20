@@ -14,14 +14,27 @@ Seeking **Summer 2027 Software Engineering, Data Engineering, and AI Engineering
 
 ### [Hagicode](https://hagicode.com)
 
-An AI-assisted developer tool that helps turn requests into reviewable proposals, tasks, code changes, and commit history.
+An AI-assisted development workspace for turning product requests into reviewable proposals, implementation tasks, code changes, and commit history.
 
-- Focus: AI-assisted software engineering, developer experience, and end-to-end workflow design
+- Designed the **OpenSpec** workflow to structure complex work into proposals, impact scope, tasks, acceptance criteria, and validation before implementation.
+- Built project-level workflows for repository understanding, multi-repository coordination through **MonoSpecs**, and durable context through the **Vault** knowledge layer.
+- Integrated multiple Agent CLIs and an **OmniRoute** model-routing layer, separating the developer's preferred CLI from model and subscription selection.
+- Extended the workflow with a Skills ecosystem, AI-assisted commit composition, code-server integration, and real-time token and productivity visibility.
 - Learn more: [Website](https://hagicode.com) · [Product overview](https://docs.hagicode.com/product-overview/) · [Microsoft Store](https://apps.microsoft.com/detail/9N3PM0N3SVDW)
 
 ### CNCF Dapr Contributor
 
-Contributed Chinese translations to the [Dapr](https://dapr.io/) project and maintained its Chinese documentation sites: [cn.dapr.io](https://cn.dapr.io/) and [docs.dapr.io/zh-hans](https://docs.dapr.io/zh-hans/).
+[Dapr](https://dapr.io/) is a CNCF graduated distributed application runtime that provides building blocks for developing portable, event-driven microservices across cloud and edge environments.
+
+Contributed Chinese translations and documentation localization for Dapr, and maintained its Chinese documentation sites: [cn.dapr.io](https://cn.dapr.io/) and [docs.dapr.io/zh-hans](https://docs.dapr.io/zh-hans/). This work focused on making Dapr's distributed-systems concepts, APIs, and operational guidance accessible to Chinese-speaking developers.
+
+## Skills
+
+- **Languages:** C#, Python, TypeScript/JavaScript, and Rust
+- **Software Engineering:** .NET, ASP.NET Core, distributed systems, event-driven architecture, event sourcing, and automated testing
+- **Cloud Native:** Dapr, microservices, containers, Kubernetes, and developer tooling
+- **Cloud Platforms:** AWS, Microsoft Azure, Alibaba Cloud, and Tencent Cloud
+- **AI & Developer Experience:** AI-assisted coding workflows, CLI tools, automation, documentation, and open-source localization
 
 ## GitHub Contributions
 
