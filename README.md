@@ -28,7 +28,6 @@ My Microsoft MVP journey began in 2021. [View my official Microsoft MVP profile]
 ## Currently
 
 - Studying **M.S. in Data Analytics Engineering** at **Northeastern University, Seattle**; expected graduation **Winter 2028**.
-- Seeking **Summer 2027 internships** in **Software Engineering, Data Engineering, and AI Engineering**.
 - Based in **Seattle, WA**; open to opportunities across the United States and remote roles.
 - Interested in AI-assisted software engineering, full-stack development, and applied machine learning.
 
